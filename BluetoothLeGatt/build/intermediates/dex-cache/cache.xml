@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/a8b4f0cc269de46d98f62c51cbd1140654d737cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_02edb7a1585cb63fc8ad91ea65197e514d49ff87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/13a4eefc327f5f6002c6febe350aef4a31cb8b00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83b2ac4b18f60e2e0886d82b0456c6a9b127349b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/5b0f4dd7b686ac034ebc5ab7c369b4d944b34c88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efbb14bbc038f91b46774b5f1059c36c456fe755/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/8027f6371b752923a84bef5eec41f83d39c83dea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_679a36a976013990598f7eb42fffbdc8f6c72765.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9476f705a3a53319229f490c5527dab5ab0513d1">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4212e40b370c6f72172fd932907e85b07d5cafa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4af46d6f199cc3e2459b07487a15885b91e39cd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/8027f6371b752923a84bef5eec41f83d39c83dea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_679a36a976013990598f7eb42fffbdc8f6c72765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/a8b4f0cc269de46d98f62c51cbd1140654d737cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02edb7a1585cb63fc8ad91ea65197e514d49ff87/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/33554e6f1dd4fa8b83857f1fd2fb4bbc63df43c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_b593006cd234394b4012af1bbf48c05046516f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/aaa32d21cf9157fb85f441e52a0b8de2f4de2ec6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_a39abea7d87ff6cd01ba1e151deabdd1f061e89d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/aaa32d21cf9157fb85f441e52a0b8de2f4de2ec6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a39abea7d87ff6cd01ba1e151deabdd1f061e89d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/33554e6f1dd4fa8b83857f1fd2fb4bbc63df43c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b593006cd234394b4012af1bbf48c05046516f5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/13a4eefc327f5f6002c6febe350aef4a31cb8b00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_83b2ac4b18f60e2e0886d82b0456c6a9b127349b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/5b0f4dd7b686ac034ebc5ab7c369b4d944b34c88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_efbb14bbc038f91b46774b5f1059c36c456fe755.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_15792ae54e3d81fa8772fba7337f8a67fe0718af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_15792ae54e3d81fa8772fba7337f8a67fe0718af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/c5bde06d7b6fc8561c7256d41a7dfe77c68eb341/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c6228d4e6810e628185af3a5192377d161595da/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/c3d9e216c5da29682a9058d53be36403e5f340d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_add9d5542afeeb89a9ebfdf9be473b0795b93172.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/c3d9e216c5da29682a9058d53be36403e5f340d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_add9d5542afeeb89a9ebfdf9be473b0795b93172/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/f861910d4680476e7f785cae200953c4e614bb8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_17e72f69c54b6cf1d16f0ffc96e115d4acdaad27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/c5bde06d7b6fc8561c7256d41a7dfe77c68eb341/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_4c6228d4e6810e628185af3a5192377d161595da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/common-1.0.0_08123373c5fff8fb5128c6e4476f894065e6a49e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/e6463ebf508bb57d1ad8ef60e2b4cfcb77ad01a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f11de8429908b97118274d4d22d0d6e2bc1a28eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/649a33f7f6a442da40c9de90daca8d3e0a4d9683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed4557124439f4db6da3f8f19663c031e3c5b633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_08123373c5fff8fb5128c6e4476f894065e6a49e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/649a33f7f6a442da40c9de90daca8d3e0a4d9683/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_ed4557124439f4db6da3f8f19663c031e3c5b633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/e6463ebf508bb57d1ad8ef60e2b4cfcb77ad01a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_f11de8429908b97118274d4d22d0d6e2bc1a28eb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/d0294feab71e942a1f80afc8c8a2969bad73f197/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dd2b508dc9802335987f6620332e54fbbc3cad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/d0294feab71e942a1f80afc8c8a2969bad73f197/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_1dd2b508dc9802335987f6620332e54fbbc3cad6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.android/build-cache/f861910d4680476e7f785cae200953c4e614bb8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17e72f69c54b6cf1d16f0ffc96e115d4acdaad27/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/common-1.0.0_b7d320bf394c288895383bb70cef9f3155b98e6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marshall/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_b7d320bf394c288895383bb70cef9f3155b98e6f/classes.dex" />
+    </item>
+
+</items>

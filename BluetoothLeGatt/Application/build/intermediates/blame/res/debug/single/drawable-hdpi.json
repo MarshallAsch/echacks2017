@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/marshall/Downloads/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/marshall/Downloads/BluetoothLeGatt/Application/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]

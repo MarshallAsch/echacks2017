@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/marshall/Downloads/BluetoothLeGatt/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/marshall/Downloads/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/marshall/Downloads/BluetoothLeGatt/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/marshall/Documents/CIS/echacks2017/BluetoothLeGatt/Application/src/main/res/menu/main.xml"
+    }
+]
