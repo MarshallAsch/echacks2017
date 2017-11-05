@@ -50,9 +50,6 @@
     <option name="forceSSL" value="true" />
     <option name="host" value="Bitbucket" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
-  </component>
   <component name="masterDetails">
     <states>
       <state key="Copyright.UI">

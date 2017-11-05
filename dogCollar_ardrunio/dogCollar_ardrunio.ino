@@ -13,6 +13,7 @@ const int STATUS_LED = 2;
 const int ZAP = 3;
 const int SOUND = 4;
 const int ZAP_LIGHT = 6;
+const int SOUND_LIGHT = 7;
 
 const int colorR = 255;
 const int colorG = 0;
@@ -42,11 +43,13 @@ void setup() {
   pinMode(ZAP, OUTPUT);
   pinMode(SOUND, OUTPUT);
   pinMode(ZAP_LIGHT, OUTPUT);
+  pinMode(SOUND_LIGHT, OUTPUT);
 
   digitalWrite(STATUS_LED, LOW);
   digitalWrite(ZAP, LOW);
   digitalWrite(SOUND, LOW);
   digitalWrite(ZAP_LIGHT, LOW);
+  digitalWrite(SOUND_LIGHT, LOW);
 
   lcd.begin(16, 2);
     
@@ -118,6 +121,7 @@ lcd.print("Not connected...");
     digitalWrite(ZAP, LOW);
     digitalWrite(SOUND, LOW);
     digitalWrite(ZAP_LIGHT, LOW);
+    digitalWrite(SOUND_LIGHT, LOW);
   
     digitalWrite(STATUS_LED, HIGH);
     delay(1000);
@@ -159,13 +163,14 @@ delay(250);
       break;
     case 0x03:          //start sound
       digitalWrite(SOUND, HIGH);
+      digitalWrite(SOUND_LIGHT, HIGH);
       delay(500);
-
       digitalWrite(SOUND, LOW);
-      digitalWrite(SOUND, LOW);
+      digitalWrite(SOUND_LIGHT, LOW);
       break;
     case 0x04:          //end sound
       digitalWrite(SOUND, LOW);
+      digitalWrite(SOUND_LIGHT, LOW);
       break;
     default:
       break;

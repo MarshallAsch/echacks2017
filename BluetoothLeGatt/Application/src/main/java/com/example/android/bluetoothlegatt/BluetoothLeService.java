@@ -66,12 +66,10 @@ public class BluetoothLeService extends Service {
     public final static UUID UUID_COLLAR_SERVICE =
             UUID.fromString(SampleGattAttributes.COLLAR_SERVICE);
 
-
     private int lastStrength = 0;
-
     StengthCallBack callBack;
 
-    boolean poll = false;
+
 
     // Implements callback methods for GATT events that the app cares about.  For example,
     // connection change and services discovered.
@@ -87,9 +85,6 @@ public class BluetoothLeService extends Service {
                 // Attempts to discover services after successful connection.
                 Log.i(TAG, "Attempting to start service discovery:" +
                         mBluetoothGatt.discoverServices());
-
-                poll = true;
-
 
             } else if (newState == BluetoothProfile.STATE_DISCONNECTED) {
                 intentAction = ACTION_GATT_DISCONNECTED;
@@ -137,7 +132,6 @@ public class BluetoothLeService extends Service {
             }
             mBluetoothGatt.readRemoteRssi();
         }
-
     };
 
 
