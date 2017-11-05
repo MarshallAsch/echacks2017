@@ -127,16 +127,17 @@ public class BluetoothLeService extends Service {
         @Override
         public void onReadRemoteRssi(BluetoothGatt gatt, int rssi, int status)
         {
-            //super.onReadRemoteRssi(gatt, rssi, status);
+            super.onReadRemoteRssi(gatt, rssi, status);
 
             Log.d("TAG", "RSSI");
-                if (callBack != null)
-                {
-                    callBack.function(rssi, lastStrength);
-                    lastStrength = rssi;
-                }
+            if (callBack != null)
+            {
+                callBack.function(rssi, lastStrength);
+                lastStrength = rssi;
+            }
             mBluetoothGatt.readRemoteRssi();
         }
+
     };
 
 
@@ -231,11 +232,11 @@ public class BluetoothLeService extends Service {
             return false;
         }
 
-        new CountDownTimer(120000, 1000) {
+        new CountDownTimer(1200000, 1000) {
 
             public void onTick(long millisUntilFinished) {
 
-                if (mBluetoothGatt != null && poll) {
+                if (mBluetoothGatt != null) {
                     mBluetoothGatt.readRemoteRssi();
                 }
             }
